@@ -483,15 +483,15 @@ Configuration32_Name1=OutputConfigurationParameter1
 Configuration32_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 
 [PublishSettings]
-OutputFilePath2=d:\LimePCBs\LimeSDR-X3\LimeSDR-X3_1v1\LimeSDR-X3\hardware\1v1\Project Outputs for LimeSDR-X3_1v1\LimeSDR-X3_1v0_schematic_r0.pdf
+OutputFilePath2=d:\LimePCBs\LimeSDR-X3\LimeSDR-X3_1v1\LimeSDR-X3\hardware\1v2\Project Outputs for LimeSDR-X3_1v2\LimeSDR-X3_1v1_schematic_r0.pdf
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for LimeSDR-X3_1v1
+OutputBasePath2=Project Outputs for LimeSDR-X3_1v2
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=LimeSDR-X3_1v1_schematic_r0.pdf
+OutputFileName2=LimeSDR-X3_1v2_schematic_r0.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -512,7 +512,7 @@ PDFACompliance2=Disabled
 PDFVersion2=Default
 OutputFilePath3=D:\altium projects\PCIe_5GRadio\PCIe_5GRadio_1v0\Project Outputs for PCIe_5GRadio_1v0\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for LimeSDR-X3_1v1
+OutputBasePath3=Project Outputs for LimeSDR-X3_1v2
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -525,7 +525,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for LimeSDR-X3_1v1
+OutputBasePath4=Project Outputs for LimeSDR-X3_1v2
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -562,7 +562,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=d:\LimePCBs\LimeSDR-X3\LimeSDR-X3_1v1\LimeSDR-X3\hardware\1v1\Project Outputs for LimeSDR-X3_1v1\LimeSDR-X3_1v0_schematic_r0.pdf
+RelativeOutputPath2=d:\LimePCBs\LimeSDR-X3\LimeSDR-X3_1v1\LimeSDR-X3\hardware\1v2\Project Outputs for LimeSDR-X3_1v2\LimeSDR-X3_1v1_schematic_r0.pdf
 OpenOutputs2=1
 RelativeOutputPath3=D:\altium projects\PCIe_5GRadio\PCIe_5GRadio_1v0\Project Outputs for PCIe_5GRadio_1v0\
 OpenOutputs3=1
