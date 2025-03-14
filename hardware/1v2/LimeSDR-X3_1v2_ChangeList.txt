@@ -2,7 +2,23 @@ Changes:
 
 LimeSDR-X3_1v2(_DB)_DFMr0:
  - Initial database (created from LimeSDR-X3_1v1(_DB)_DFMr1)
- - ???
+ - Schematic changes:
+   > Added shields MECH30, MECH32, MECH31, MECH33, MECH35, MECH36, MECH37, MECH38, MECH39, MECH40, MECH41, MECH42 to LMS1, LMS2 and RF switches/LNAs/PAs
+   > J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13 RF UFL connectors changed to MCX connectors
+   > PMOD connectors changed to BHR-12-HUA (with lock)
+   > HW_VER changed to 2
+   > Updated schematic template
+   > Created project variables PROJECT_VERSION and SHEET_TOTAL
+  - PCB changes:
+   > RF part rerouted to fit under shields;
+   > Some RF traces on bottom layer routed on L10. Additional requirement for embedded asymetric 50R stripline added
+   > PMOD and MCX connector placement updated
+   > Project version now comes from variable SHEET_TOTAL on silkscreen and in mechanical 1
+   > OCXO thermal case mounting holes increased to 1.5 mm
+   > PCIe bracked holes small misalignment fixed
+  - New DFM files generated
+   
+
 
 LimeSDR-X3_1v1(_DB)_DFMr1:
  - Added 3 pcs. of spacers MECH20, MECH21, MECH22 to MECH2, MECH3, MECH4, MECH5 (TDYSFF-M3/10) for second fan;
